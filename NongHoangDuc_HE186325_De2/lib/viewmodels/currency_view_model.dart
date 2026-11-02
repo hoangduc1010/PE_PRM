@@ -4,7 +4,7 @@ import '../data/providers.dart';
 import '../models/currency.dart';
 
 part 'currency_view_model.g.dart';
-
+//check
 @Riverpod(keepAlive: true)
 class CurrencyViewModel extends _$CurrencyViewModel {
   @override
